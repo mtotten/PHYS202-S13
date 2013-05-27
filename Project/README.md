@@ -1,3 +1,3 @@
-For the project, I am choosing topic 4, 3D Pattern Recognition.
+For the project, I am choosing topic 2, Traffic Flows.
 Molly Totten
 May 16, 2013
